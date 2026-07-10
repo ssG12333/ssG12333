@@ -5,6 +5,11 @@
 <img src="https://komarev.com/ghpvc/?username=ssG12333&label=👀_Views&color=6366f1&style=flat" />
 <img src="https://img.shields.io/github/stars/ssG12333?label=⭐_Stars&style=social" />
 
+<!-- 像素宠物：commit 越多越多动物，一起养 -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ssG12333" width="100%" />
+</a>
+
 </div>
 
 ---
