@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=150&section=header&text=ssG12333&fontSize=50&fontAlignY=35&desc=AI%20Infra%20·%20Quantization%20·%20RL&descSize=14&descAlignY=55&animation=fadeIn" />
 
+<img src="https://komarev.com/ghpvc/?username=ssG12333&label=👀_Views&color=6366f1&style=flat" />
+<img src="https://img.shields.io/github/stars/ssG12333?label=⭐_Stars&style=social" />
+
 </div>
 
 ---
