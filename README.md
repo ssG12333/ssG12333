@@ -1,100 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=150&section=header&text=ssG12333&fontSize=50&fontAlignY=35&desc=AI%20Infra%20·%20Quantization%20·%20RL&descSize=14&descAlignY=55&animation=fadeIn" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=ssG12333&fontSize=55&fontAlignY=35&desc=AI%20Infra%20·%20Quantization%20·%20RL&descSize=15&descAlignY=55&animation=fadeIn" />
 
 <img src="https://komarev.com/ghpvc/?username=ssG12333&label=👀_Views&color=6366f1&style=flat" />
 &nbsp;
 <img src="https://img.shields.io/github/stars/ssG12333?label=⭐_Stars&style=social" />
 
-</div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ssG12333" width="500" />
+</a>
 
-<br>
+</div>
 
 ---
 
 ### 👋 About Me · 关于我
 
-🎓 在读研究生，两个研究方向：
+🎓 在读研究生，研究方向：**AI Infra / 模型量化** + **强化学习 (RL)**
 
-- **AI Infra / 模型量化**：从 IEEE 754 → PyTorch QAT 源码 → LLaMA 4-bit 部署
-  *Model quantization: from floating-point bit layout to LLaMA 4-bit inference.*
-- **强化学习 (RL)**：PPO / DDPG + 量化交易智能体
-  *Reinforcement learning: PPO/DDPG + algorithmic trading agents.*
+*Master's student, focusing on AI Infra / Model Quantization and Reinforcement Learning.*
 
-📝 **"源码即文档"** — 不满足于调 API，下沉到框架内部吃透
-*"Source code is the documentation" — I read framework internals, not just call APIs.*
-
-<br>
+- 🔬 系统学习量化全链路：IEEE 754 → PyTorch QAT 源码 → LLaMA 4-bit 部署
+- 🧠 RL 方向：PPO / DDPG + 量化交易智能体 (Alpha-Nexus)
+- 📝 **"源码即文档"** — 不满足于调 API，下沉到框架内部吃透
 
 ---
 
 ### 🚀 Projects · 项目
 
-[**🧠 AI-Infra-Inference-Notes**](https://github.com/ssG12333/AI-Infra-Inference-Notes)  
-从 ncnn 到 vLLM，系统化掌握 AI Infra 全栈 · 9 模块 · 24000+ 行  
+[**🧠 AI-Infra-Inference-Notes**](https://github.com/ssG12333/AI-Infra-Inference-Notes) — 从 ncnn 到 vLLM，系统化掌握 AI Infra 全栈 · 9 模块 · 24000+ 行  
 *From ncnn to vLLM — master the full AI Infra stack. 9 modules, 24,000+ lines.*
 
-<br>
-
-[**📐 QuantLab**](https://github.com/ssG12333/QuantLab)  
-从 FP32 位布局到 LLaMA 4-bit 部署，吃透模型量化 · 9 阶段 · 持续施工  
+[**📐 QuantLab**](https://github.com/ssG12333/QuantLab) — 从 FP32 位布局到 LLaMA 4-bit 部署，吃透模型量化 · 9 阶段 · 持续施工  
 *From IEEE 754 to LLaMA 4-bit — mastering model quantization. 9 stages, ongoing.*
-
-<br>
 
 ---
 
 ### 🧰 Tech Stack · 技术栈
 
-| 方向 / Field | 工具 & 框架 / Tools |
+| 方向 | 工具 & 框架 |
 |:--|------|
 | 🧠 推理 & 部署 *Inference & Deployment* | PyTorch · ONNX · TensorRT · llama.cpp |
 | 📐 模型量化 *Quantization* | QAT/PTQ · GPTQ/AWQ · QLoRA/NF4 |
 | 🎮 强化学习 *RL* | Gymnasium · PPO/DDPG · Stable Baselines 3 |
 | 💻 语言 *Languages* | Python · C++ |
 
-<br>
-
 ---
 
 ### 📈 Learning · 学习路线
 
 ```
-✅ PyTorch QAT 三种模式 (Eager / FX / PT2E) + prepare_qat_fx 源码深潜
-   PyTorch QAT three modes + source-level graph rewrite analysis
-
+✅ PyTorch QAT 三种模式 (Eager/FX/PT2E) + prepare_qat_fx 源码深潜
 🔜 LSQ — Learned Step Size Quantization 从零实现
-   From-scratch LSQ implementation with gradient derivation
-
 📋 AdaRound / FlexRound / GPTQ 数学内核
-   Adaptive rounding + Hessian-based PTQ algorithms
-
 📋 YOLOv8 QAT 端到端实战 · PPQ + AIMET 工业框架
-   End-to-end YOLOv8 QAT · Industrial frameworks deep dive
-
 📋 Alpha-Nexus — 强化学习量化交易框架
-   RL-driven algorithmic trading system
 ```
-
-<br>
-
----
-
-### 🕹️ 像素宠物 · Pixel Pets
-
-<div align="center">
-
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/ssG12333" width="600" />
-  </a>
-
-  *去 [gitanimals.org](https://gitanimals.org) 领养你的像素宠物 · commit 越多越稀有*
-
-</div>
-
-<br>
 
 ---
 
